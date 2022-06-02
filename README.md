@@ -1,1 +1,1 @@
-<h1>Shit</h1>
+<h1 align="center">EdgeOS</h1>
