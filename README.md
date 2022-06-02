@@ -1,2 +1,3 @@
-# EdgeOS
-Open source operating system based of the UI of SkiftOS, still in progress, made with C++ and ASM
+<p align="center">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
